@@ -8,9 +8,9 @@
 }
 body {
   background-color: 0;
-  background-image: url('img/back.jpg'); /* Replace 'your-image-url.jpg' with the actual URL or path to your image */
-  background-size: cover; /* You can adjust this property as needed */
-  background-repeat: no-repeat; /* You can adjust this property as needed */
+  background-image: url('back.jpg'); 
+  background-size: cover; 
+  background-repeat: no-repeat; 
 }
 .wrapper {
   width: 90%;
